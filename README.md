@@ -1,3 +1,1 @@
-# Machine-Learning
-
-Projects to be uploaded soon
+# Machine Learning Course Projects
