@@ -1,0 +1,13 @@
+README FOR CMPSC 448: Homework 4:
+
+----------------------Problem 2:--------------------------- 
+
+There are three different files. Each files uses a different classifier from Random Forest, SVM and xgboost. 
+
+All these codes have the following format: Get or load the data from a9a.t and a9a file and then use the a9a.t file to train the training dataset. Then use x and y train to the classifier to find the training accuracy. Next when calculate the holdout accuracy and finally the validation accuracy. This allows us to compare the training accuracy and the validation accuracy to see how close we get.
+
+In this code, we have hyperparameters for the classifier, which are all given in the pdf file I have attached and the various tunings.
+
+----------------------Problem 3:---------------------------
+
+This code has comments already to explain it. I used Spyder through anaconda distribution to write the code. 
